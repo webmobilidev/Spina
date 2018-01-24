@@ -85,13 +85,13 @@ module.exports.metadata =
 // TOP OF METADATA
 {
     "cordova-custom-config": "3.0.14",
-    "cordova-plugin-device": "1.1.6",
+    "cordova-plugin-device": "1.1.7",
     "cordova-plugin-dialogs": "1.2.1",
     "cordova-plugin-inappbrowser": "1.5.0",
     "cordova-plugin-network-information": "1.2.1",
     "cordova-plugin-statusbar": "2.2.3",
     "cordova-plugin-whitelist": "1.2.2",
-    "es6-promise-plugin": "4.1.0",
+    "es6-promise-plugin": "4.2.2",
     "cordova-plugin-x-socialsharing": "5.1.8",
     "phonegap-plugin-push": "1.8.4"
 };
